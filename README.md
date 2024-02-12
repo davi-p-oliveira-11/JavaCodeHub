@@ -6,9 +6,9 @@ orem ipsum dolor sit amet, consectetur adipiscing elit. In efficitur faucibus ne
 
 ## Basic Sequences
 
-[Dummy Link]();
-[Dummy Link]();
-[Dummy Link]();
-[Dummy Link]();
-[Dummy Link]();
-[Dummy Link]();
+[Dummy Link]()<br>
+[Dummy Link]()<br>
+[Dummy Link]()<br>
+[Dummy Link]()<br>
+[Dummy Link]()<br>
+[Dummy Link]()<br>
