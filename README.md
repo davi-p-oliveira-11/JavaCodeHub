@@ -8,7 +8,7 @@ orem ipsum dolor sit amet, consectetur adipiscing elit. In efficitur faucibus ne
 
 [Hello World](https://github.com/davi-p-oliveira-11/JavaCodeHub/blob/main/Challenges/HelloWorld/problem.md)<br>
 [Hello User](https://github.com/davi-p-oliveira-11/JavaCodeHub/blob/main/Challenges/HelloUser/problem.md)<br>
-[Dummy Link]()<br>
+[Employee Name](https://github.com/davi-p-oliveira-11/JavaCodeHub/blob/main/Challenges/EmployeeName/problem.md)<br>
 [Dummy Link]()<br>
 [Dummy Link]()<br>
 [Dummy Link]()<br>
