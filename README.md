@@ -10,7 +10,7 @@ orem ipsum dolor sit amet, consectetur adipiscing elit. In efficitur faucibus ne
 [Hello User](https://github.com/davi-p-oliveira-11/JavaCodeHub/blob/main/Challenges/HelloUser/problem.md)<br>
 [Employee Name](https://github.com/davi-p-oliveira-11/JavaCodeHub/blob/main/Challenges/EmployeeName/problem.md)<br>
 [Sum of Two](https://github.com/davi-p-oliveira-11/JavaCodeHub/blob/main/Challenges/SumOfTwo/problem.md)<br>
-[Dummy Link]()<br>
+[Operations](https://github.com/davi-p-oliveira-11/JavaCodeHub/blob/main/Challenges/Operations/problem.md)<br>
 [Dummy Link]()<br>
 
 
