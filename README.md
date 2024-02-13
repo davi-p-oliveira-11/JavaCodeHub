@@ -7,7 +7,7 @@ orem ipsum dolor sit amet, consectetur adipiscing elit. In efficitur faucibus ne
 ## Basic Sequences
 
 [Hello World](https://github.com/davi-p-oliveira-11/JavaCodeHub/blob/main/Challenges/HelloWorld/problem.md)<br>
-[Dummy Link]()<br>
+[Hello User()<br>
 [Dummy Link]()<br>
 [Dummy Link]()<br>
 [Dummy Link]()<br>
